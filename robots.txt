@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anziteng.github.io/lovegobuy-spreadsheet-coupon-condition-audit/sitemap.xml
